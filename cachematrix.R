@@ -1,3 +1,5 @@
+#This R file contains 2 functions makeCacheMatrix and cacheSolve. 
+
 
 
 #This function creates a special "matrix" object that can cache its inverse.
